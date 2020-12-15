@@ -1,0 +1,8 @@
+Buenas tardes:
+Les envio mi TP final de Programación. Pude avanzar mucho en el juego pero me encontre con un problema (posiblemente)
+muy tonto para resolver que es que al superar los autos enemigos sumen el puntaje en conjunto y no de forma individual
+como me esta ocurriendo. No encontre otra manera de poder hacerlo, lo estuve intentando por varios dias y no se me
+ocurrio otra manera. 
+Más alla de la nota de dicho trabajo, me gustaria que por favor me enviaran la forma de solucionar dicho "problema" para 
+poder seguir entendiendo.
+Desde ya muchas gracias.-
